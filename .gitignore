@@ -1,0 +1,53 @@
+# Python 바이트코드 및 캐시 / Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상 환경 / Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# 환경 변수 및 민감 정보 / Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# 빌드 및 패키징 결과물 / Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# 테스트 및 커버리지 결과 / Test and coverage artifacts
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# 타입 검사기 및 린터 캐시 / Type checker and linter caches
+.mypy_cache/
+.pyright/
+.ruff_cache/
+
+# Jupyter Notebook 체크포인트 / Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE 및 에디터 설정 / IDE and editor settings
+.idea/
+.vscode/
+
+# 운영체제 생성 파일 / OS-generated files
+# Thumbs.db는 파일 크기가 커질 수 있으므로 Git 용량 제한을 고려하여 제외
+# Thumbs.db is excluded because it can grow large and consume Git storage.
+.DS_Store
+Thumbs.db
+
+# 로그 및 임시 파일 / Logs and temporary files
+*.log
+*.tmp
+*.swp
