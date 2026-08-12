@@ -1,40 +1,97 @@
-# coding fortfolio
+# 💻 Coding Portfolio
 
- basic-coding 포트폴리오입니다.
-    참고로 현재 multi-agent orchestration을 공부하고 있습니다.
+웹 서비스 개발과 AI 애플리케이션 개발을 학습하며 진행한 프로젝트를 정리한 포트폴리오입니다.
+
+현재 Multi-Agent Orchestration 기반 AI Application 개발을 공부하고 있습니다.
 
 ## 🎯 About Me
 
-사용자 중심의 웹 서비스 구현을 목표로 합니다.
+사용자가 실제로 활용할 수 있는 웹·AI 서비스를 만드는 것을 목표로 합니다.
 
-## 💻 기술 스택
+기존 웹 풀스택 개발 경험을 기반으로 현재 Python Backend, Database, AI Orchestration 영역까지 확장하고 있습니다.
 
-- program : cursor, antigravity, vscode
-- Frontend: HTML5, CSS3, JavaScript, React
-- Backend: Node.js, Express
-- Database: MongoDB, MySQL
-- Version Control: Git, GitHub
+## 🛠 Tech Stack
 
-## 🚀 프로젝트
+**Tools**
+- Git / GitHub
+- Cursor
+- Antigravity
+- VS Code
 
-- 쇼핑몰 웹사이트
-    
-    - cursor 기반, React와 Node.js를 활용한 풀스택 프로젝트
-    - to be updated
-    
-- 일정 관리 앱
-    
-    - React와 MongoDB를 이용한 CRUD 기능 구현
-    - 실시간 데이터 업데이트
-    - 사용자 친화적 UI/UX 디자인
-    
 
-## 📚 교육
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- React
 
-- 경제학(학사) / 행정학(석사) 전공
-- multi-agent orchestration BOOTCAMP 수료중
+**Backend**
+- Node.js
+- Express
+- Python
+- FastAPI *(Learning)*
 
-## 📞 연락처 (추후 업데이트)
+**Database**
+- MongoDB
+- MySQL
+- SQL *(SQLD Learning)*
 
-- 이메일: [example@email.com](mailto:example@email.com)
-- GitHub: [github.com/username](http://github.com/username)
+**AI**
+- Prompt Engineering
+- Function Calling *(Learning)*
+- AI Orchestration *(Learning)*
+- Multi-Agent *(Learning)*
+
+
+## 🚀 Projects
+
+### 🛒 Shopping Mall Web Service
+
+React + Node.js 기반 풀스택 쇼핑몰 프로젝트
+
+- 회원가입 / 로그인
+- JWT 인증 및 사용자 권한 관리
+- 상품 CRUD
+- 이미지 업로드
+- 장바구니 / 주문
+- 결제 API 연동
+- 서비스 배포
+
+### ✅ Todo / Schedule App
+
+웹 서비스의 CRUD와 Frontend-Backend-Database 연결 구조를 학습하기 위한 프로젝트
+
+- 일정 생성 / 조회 / 수정 / 삭제
+- React 기반 UI
+- Node.js / MongoDB 연동
+
+## 📚 Currently Learning
+
+현재 **Multi-Agent Orchestration Application Developer Bootcamp**를 수강하고 있습니다.
+
+주요 학습 영역:
+
+- Python / FastAPI
+- REST API / HTTP
+- SQL / Database Modeling
+- Git / GitHub
+- Function Calling
+- AI Orchestration
+- Multi-Agent Architecture
+
+현재 SQLD 시험 준비를 병행하며 관계형 데이터베이스와 SQL 기초를 보강하고 있습니다.
+
+## 🧭 Roadmap
+
+```text
+Web Development
+      ↓
+Python + FastAPI
+      ↓
+SQL / Database
+      ↓
+Function Calling
+      ↓
+AI Orchestration
+      ↓
+Multi-Agent Application
